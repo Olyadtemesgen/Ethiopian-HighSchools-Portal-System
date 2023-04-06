@@ -1,2 +1,2 @@
 # Ethiopian-HighSchools-Portal-System
-#Student Portal System This project try to solve the problem we see in Ethiopian highschools. 
+## This project is designed to solve the problem that we see between school community in Ethiopian Highscool.
