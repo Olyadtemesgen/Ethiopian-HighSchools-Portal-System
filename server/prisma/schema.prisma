@@ -11,11 +11,6 @@ datasource db {
 }
 
 
-
-
-
-
-
 // !!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -133,4 +128,11 @@ model Admin {
   job_title      String
   job_description String
   account        Account @relation(fields: [user_id], references: [user_id])
+}
+
+
+model Anouncement {
+  id Int @id @default(autoincrement())
+  title String
+  description String
 }

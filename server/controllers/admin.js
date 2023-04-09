@@ -54,7 +54,7 @@ const createClass = async (req, res) => {
         counter += 1;
       }
     }
-    if (counter == 16) {
+    if (counter == 8) {
       res.status(201).json({
         message: "All classes Are created successfully",
         number: counter,
