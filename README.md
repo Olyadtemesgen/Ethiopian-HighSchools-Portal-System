@@ -1,4 +1,4 @@
-Repository For FIDEL Project
+Repository for Ethiopian-Highschools-Portal-System
 
 It is A student Portal System.
 
